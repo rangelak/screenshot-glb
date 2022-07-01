@@ -1,6 +1,6 @@
 # 📸 screenshot-glb
 
-Easily take screenshots and create thumbnail images for glTF 2.0 Binary (GLB) files.
+Easily take screenshots and create thumbnail images for glTF 2.0 Binary (GLB) files. Unlike the original package published and maintained by shopify, this one accepts remote GLB urls. 
 
 ## Install
 
